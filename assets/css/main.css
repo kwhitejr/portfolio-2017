@@ -2325,14 +2325,14 @@
 
 /* Banner */
 
-	#banner {
+	#portfolio {
 		background: #fff;
 		text-align: center;
 		padding: 4.5em 0 4.5em 0;
 		margin-bottom: 0;
 	}
 
-		#banner header > p {
+		#portfolio header > p {
 			margin-bottom: 0;
 		}
 
@@ -2596,7 +2596,7 @@
 
 		/* Banner */
 
-			#banner {
+			#portfolio {
 				padding-left: 2em;
 				padding-right: 2em;
 			}
@@ -2996,7 +2996,7 @@
 
 		/* Banner */
 
-			#banner {
+			#portfolio {
 				padding: 3em 2em 3em 2em;
 			}
 
